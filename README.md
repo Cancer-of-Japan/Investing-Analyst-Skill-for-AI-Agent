@@ -1,6 +1,6 @@
-# Investing Analyst Skill for AI Agent
+# Investing Analyst Skill
 
-This repo packages the `value-investing-analyst` skill for opencode.
+This repo packages the `value-investing-analyst` skill for AI agents that load skills from a folder.
 
 ## What it does
 
@@ -9,16 +9,16 @@ This repo packages the `value-investing-analyst` skill for opencode.
 
 ## Install
 
-The repo already includes an opencode config at `.opencode/opencode.json` that points opencode at:
+1. Clone or download this repo.
+2. Point your agent to `.github/skills/value-investing-analyst`.
+3. If your agent uses a skills directory, copy that folder into its expected skill path.
 
-- `.github/skills/value-investing-analyst`
-
-## Files
+## Layout
 
 - `.github/skills/value-investing-analyst/SKILL.md`
 - `.github/skills/value-investing-analyst/references/`
-- `.opencode/opencode.json`
 
-## Use
+## Notes
 
-Restart opencode after changing config or skill files.
+- The skill is framework-agnostic.
+- Publication notes live under `references/Publication/`.
