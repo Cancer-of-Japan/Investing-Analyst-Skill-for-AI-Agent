@@ -60,7 +60,7 @@ There is no separate publication note in this repo for Bogle or Icahn; use the b
 2. **Margin of safety.** Pay well below a conservative value estimate; the gap absorbs errors and bad luck.
 3. **Mr. Market serves you, he doesn't guide you.** Price swings create opportunities; never let quotes dictate your judgment.
 4. **Stay within your circle of competence / your edge.** Knowing the circle's boundaries matters more than its size.
-5. **Long horizon.** Earnings drive price over 3??0+ years; short-term moves are noise. Market timing and macro forecasting don't work.
+5. **Long horizon.** Earnings drive price over 3–10+ years; short-term moves are noise. Market timing and macro forecasting don't work.
 6. **Costs, turnover, and taxes destroy returns.** Low-cost index funds beat most professionals for people who won't do the work.
 7. **Avoid speculation disguised as investment:** hot IPOs, story stocks without earnings, options/futures, shorting, leverage on margin.
 8. **Invert and check incentives.** Ask what would make this fail, and who profits from the recommendation (Munger).
@@ -71,7 +71,7 @@ There is no separate publication note in this repo for Bogle or Icahn; use the b
 ### Step 1: Clarify the task and the investor
 - Identify request type: single-stock analysis, valuation, screen, buy/sell/hold decision, portfolio review, fund/ETF comparison, special situation (asset play, activist, spin-off), quant/backtest evaluation, or behavior check.
 - Choose lenses: Graham, Lynch, Buffett, and Munger for every stock. Add Icahn for asset-value gaps, governance, and catalysts. Add Bogle for funds, costs, and the passive-vs-active choice. Add Dalio for portfolio risk, correlation, and macro/debt exposure. Add Simons for systematic or backtested strategies. Add Soros for suspected bubbles, acquisition- or issuance-driven EPS growth, and credit-fueled sectors.
-- Determine investor type (Graham): **defensive** (little time, wants safety ??index funds or strict Ch. 14 screen) vs **enterprising** (will do serious research ??bargains, Lynch/Buffett-style picks).
+- Determine investor type (Graham): **defensive** (little time, wants safety → index funds or strict Ch. 14 screen) vs **enterprising** (will do serious research → bargains, Lynch/Buffett-style picks).
 - For personalized portfolio or suitability questions, ask for jurisdiction, account type, time horizon, liquidity needs, emergency reserve, debt, tax constraints, loss tolerance, current holdings, and position sizes. If these are missing, keep the answer general.
 - Readiness check (Lynch): emergency money set aside and only invest money not needed for several years. Treat his "own a home first" view as a historical heuristic, not a universal requirement.
 
@@ -85,7 +85,7 @@ Start with a **data snapshot**: company/security, exchange, currency, price and 
 | Area | Items |
 |------|-------|
 | Price | Share price and timestamp, basic and diluted shares, options/RSUs/convertibles, market cap |
-| Earnings | EPS for 10 years (min 5), 3-yr average EPS, expected growth 5??0 yrs |
+| Earnings | EPS for 10 years (min 5), 3-yr average EPS, expected growth 5–10 yrs |
 | Balance sheet | Current assets, current liabilities, cash, long-term debt (bank vs funded), equity, tangible book, inventories, receivables, pension status |
 | Cash flow | Operating cash flow, D&A, stock-based compensation, capex (maintenance vs growth), working-capital needs, free cash flow |
 | Returns | ROE, ROIC, pretax margin (10-yr trend) |
@@ -96,47 +96,47 @@ Start with a **data snapshot**: company/security, exchange, currency, price and 
 - Run the **defensive** 7-criteria screen or the **enterprising** 5-criteria screen (see [graham.md](./references/Investors/graham.md)).
 - For cash-rich, payout, or buyback questions, cross-check [Graham 1932](./references/Publication/graham-1932-return-cash.md) first.
 - Compute:
-  - P/E on 3-yr average earnings (defensive limit ??15)
-  - P/B (??1.5) and **P/E ? P/B ??22.5** ??derived **Graham Number** = $\sqrt{22.5 \times \text{EPS}_{3yr\,avg} \times \text{BVPS}}$. Do not calculate it when average EPS or BVPS is non-positive.
-  - Net current asset value (NCAV) = current assets ??all liabilities ??preferred; net-net if price < NCAV per share (stricter classic rule: ??2/3 NCAV)
+  - P/E on 3-yr average earnings (defensive limit ≤ 15)
+  - P/B (≤ 1.5) and **P/E × P/B ≤ 22.5** → derived **Graham Number** = $\sqrt{22.5 \times \text{EPS}_{3yr\,avg} \times \text{BVPS}}$. Do not calculate it when average EPS or BVPS is non-positive.
+  - Net current asset value (NCAV) = current assets − all liabilities − preferred; net-net if price < NCAV per share (stricter classic rule: ≤ 2/3 NCAV)
   - Price vs tangible book: conservative buyers stay within ~1/3 above tangible asset value (Ch. 8)
   - Earnings yield vs high-grade bond yield (Ch. 20 margin of safety)
-  - Optional growth formula: $V = E \times (8.5 + 2g)$, g = expected 7??0 yr growth %. Graham warns this is illustrative and can overstate value; never rely on it alone.
-- Flag speculative elements: P/E far above 25? 7-yr avg earnings, no earnings record, heavy debt, hype.
+  - Optional growth formula: $V = E \times (8.5 + 2g)$, g = expected 7–10 yr growth %. Graham warns this is illustrative and can overstate value; never rely on it alone.
+- Flag speculative elements: P/E far above 25× 7-yr avg earnings, no earnings record, heavy debt, hype.
 
 ### Step 4: Lynch lens (category + story)
 - Classify into one of six categories: **slow grower, stalwart, fast grower, cyclical, turnaround, asset play** (see [lynch.md](./references/Investors/lynch.md)). Category determines expectations, what to check, and when to sell.
 - Write the **two-minute story**: why it will grow, what must go right, what could go wrong.
 - Compute:
-  - P/E ÷ growth (PEG): ?? fair, ??.5 very attractive, ?? very unattractive. Enter growth as a whole percentage (for example, `15`, not `0.15`), use a defensible forward or normalized rate, and do not use PEG for negative or highly cyclical earnings.
-  - Dividend-adjusted: $(g + \text{yield}) / \text{P/E}$ ??<1 poor, 1.5 okay, ?? good
-  - Net cash per share; P/E ex-cash = (Price ??net cash/share) ÷ EPS
-  - Debt/equity (normal ??25/75), bank vs funded debt
+  - P/E ÷ growth (PEG): ≈1 fair, ≈0.5 very attractive, ≥2 very unattractive. Enter growth as a whole percentage (for example, `15`, not `0.15`), use a defensible forward or normalized rate, and do not use PEG for negative or highly cyclical earnings.
+  - Dividend-adjusted: $(g + \text{yield}) / \text{P/E}$ → <1 poor, 1.5 okay, ≥2 good
+  - Net cash per share; P/E ex-cash = (Price − net cash/share) ÷ EPS
+  - Debt/equity (normal ≈ 25/75), bank vs funded debt
   - Inventory growth vs sales growth (red flag if inventory grows faster)
   - Free cash flow per share
 - Assess the 13 perfect-stock traits and the "stocks to avoid" list; do not collapse qualitative evidence into an arbitrary numeric score.
 
 ### Step 5: Buffett lens (business quality + owner value)
-- **Understandable?** Inside circle of competence? Fast-changing technology ??usually "too hard".
-- **Durable moat / franchise?** Pricing power, little capital needed, high ROE with little debt, consistent earning power. Commodity business ??avoid unless lowest-cost producer at a deep discount.
+- **Understandable?** Inside circle of competence? Fast-changing technology → usually "too hard".
+- **Durable moat / franchise?** Pricing power, little capital needed, high ROE with little debt, consistent earning power. Commodity business → avoid unless lowest-cost producer at a deep discount.
 - For track-record, manager-skill, or price-vs-value arguments, cross-check [Buffett 1984](./references/Publication/buffett-superinvestors-1984.md) first.
-- **Owner earnings** = net income + D&A and other non-cash charges ??average maintenance capex (??extra working capital needed). Ignore EBITDA.
+- **Owner earnings** = net income + D&A and other non-cash charges − average maintenance capex (− extra working capital needed). Ignore EBITDA.
 - **Intrinsic value** = discounted owner earnings over the business's life. Use conservative growth and a discount rate at least equal to the relevant long-term government bond yield plus a safety cushion. Keep cash flows and discount rates consistently nominal or real, cap mature terminal growth below long-run nominal economic growth, include net debt and other senior claims, use diluted shares, and show low/base/high sensitivity.
-- **$1 test**: has each $1 retained created ??$1 of market value over 5??0 years?
+- **$1 test**: has each $1 retained created ≥ $1 of market value over 5–10 years?
 - **Management**: candid reporting, rational capital allocation, buybacks only below intrinsic value, owner-like pay, resistance to the institutional imperative, no empire-building acquisitions.
 
 ### Step 6: Munger lens (inversion, incentives, biases)
 - **Basket:** yes / no / too tough to understand. If too tough, stop and say so.
 - **Invert:** list the ways the investment could cause a permanent loss (competitive destruction, technology passing gains to customers, leverage, fraud, bad incentives).
-- **Return-on-capital test:** long-run stock return ??the business's return on capital. Is ROIC durably high, with room to reinvest?
+- **Return-on-capital test:** long-run stock return ≈ the business's return on capital. Is ROIC durably high, with room to reinvest?
 - **Incentives:** management pay structure, option dilution (recast earnings with option costs as an expense), advisers' and brokers' commissions.
 - **Bias audit:** check both the thesis and the market narrative against the 25 tendencies. Flag lollapalooza setups (several biases pushing one direction, e.g., social proof + envy + authority in a bubble).
 - **Opportunity cost:** is this better than the best idea already owned or an index fund? Bet big only when the odds are clearly favorable.
 
 ### Step 7: Situational lenses (apply only those that fit)
 - **Icahn: asset value and catalyst** (asset plays, conglomerates, poorly governed companies): sum-of-the-parts or liquidation value vs price; why the gap exists; a concrete catalyst (activist 13D, spin-off, sale, buyback); governance red flags (low insider ownership, poison pill, staggered board, dual-class shares, related-party fees, premium buybacks for one holder); accounting quality behind the asset value; downside floor; timeline risk; operator risk in capital-intensive, cyclical, labor-heavy businesses.
-- **Bogle: cost and passive default** (funds, ETFs, advisers, "should I pick stocks?"): all-in cost = expense ratio + loads + ~1% ? turnover + cash drag + taxes; the odds of active outperformance; reversion to the mean in past winners; the index fund as the default benchmark; Funny Money ??5%. Also check tax drag in taxable accounts, the hot-fund behavior gap (investor return vs fund return), and adviser fees (fee-only, ??1%).
-- **Dalio: portfolio risk** (portfolio reviews, macro worries): count independent return streams (correlation, not tickers); coverage across growth up/down ? inflation up/down; max loss per bet or correlated cluster; debt-service vs cash flow and rates near zero; a backup plan if wrong. Also frame the thesis as an expected-value bet (probability ? payoff, both sides) and ask what the consensus price already assumes; consider not betting at all when confidence is low; look for hidden currency or rate speculation.
+- **Bogle: cost and passive default** (funds, ETFs, advisers, "should I pick stocks?"): all-in cost = expense ratio + loads + ~1% × turnover + cash drag + taxes; the odds of active outperformance; reversion to the mean in past winners; the index fund as the default benchmark; Funny Money ≤ 5%. Also check tax drag in taxable accounts, the hot-fund behavior gap (investor return vs fund return), and adviser fees (fee-only, ≤ 1%).
+- **Dalio: portfolio risk** (portfolio reviews, macro worries): count independent return streams (correlation, not tickers); coverage across growth up/down × inflation up/down; max loss per bet or correlated cluster; debt-service vs cash flow and rates near zero; a backup plan if wrong. Also frame the thesis as an expected-value bet (probability × payoff, both sides) and ask what the consensus price already assumes; consider not betting at all when confidence is low; look for hidden currency or rate speculation.
 - For country growth, debt-cycle, or long-run growth assumptions, cross-check [Dalio 2017](./references/Publication/dalio-productivity-structural-reform-2017.md) first.
 - **Simons: systematic strategies** (quant funds, backtests, trading systems): out-of-sample record, plausible mechanism, independent sample size, overfitting controls, costs and capacity, leverage and crowding, automatic risk reduction, signal decay, fee share, whether the buyable fund is the one with the record. Default to an index fund absent a verifiable edge.
 - The Chern-Simons paper is background only; do not use it for investing claims. Use [Simons 1974 background](./references/Publication/chern-simons-1974.md) only to understand his academic history.
@@ -145,7 +145,7 @@ Start with a **data snapshot**: company/security, exchange, currency, price and 
 
 ### Step 8: Reconcile and decide
 - Build a value range from the methods that fit the category (e.g., Graham number/NCAV for asset plays and slow growers; PEG + owner-earnings DCF for stalwarts and fast growers; normalized mid-cycle earnings for cyclicals; survival + recovery earnings for turnarounds).
-- **Margin of safety** = (conservative value ??price) ÷ conservative value. Guidelines: defensive ??25??3%; secondary/less-proven companies ??33%; wonderful businesses may be bought at a "fair" price if the moat is durable.
+- **Margin of safety** = (conservative value − price) ÷ conservative value. Guidelines: defensive ≥ 25–33%; secondary/less-proven companies ≥ 33%; wonderful businesses may be bought at a "fair" price if the moat is durable.
 - Where frameworks disagree, say so explicitly (e.g., Graham fails it on P/B but Buffett/Lynch like the franchise).
 - State what the current price appears to imply about growth, margins, or returns on capital; compare that expectation with the evidence.
 - Assign confidence: **High / Medium / Low**, based on data quality, business predictability, valuation-method agreement, and sensitivity to key assumptions.
@@ -153,16 +153,16 @@ Start with a **data snapshot**: company/security, exchange, currency, price and 
 - For holdings: apply category-specific sell signals (Lynch) and "story intact?" test. Never sell just because price fell; never buy just because price fell.
 
 ### Step 9: Portfolio-level checks (when relevant)
-- Graham allocation: 25??5% stocks, default 50/50; rebalance when drift ??5 pts (or every 6 months, per Zweig). Bogle alternative: bonds ??your age (or age ??10); international ??~20% of equities.
+- Graham allocation: 25–75% stocks, default 50/50; rebalance when drift ≥ 5 pts (or every 6 months, per Zweig). Bogle alternative: bonds ≈ your age (or age − 10); international ≤ ~20% of equities.
 - Diversification:
-  - Graham defensive investor: 10??0 stocks.
-  - Lynch small investor: 3??0 stocks they truly understand.
-  - Buffett/Munger "know-something" investor: a few (5??0) great businesses, bet heavily when the odds are favorable.
+  - Graham defensive investor: 10–30 stocks.
+  - Lynch small investor: 3–10 stocks they truly understand.
+  - Buffett/Munger "know-something" investor: a few (5–10) great businesses, bet heavily when the odds are favorable.
   - "Know-nothing" investor: index fund with periodic purchases.
-  - Dalio: measure diversification by uncorrelated return streams (15??0 ideal for a professional). A thousand 60%-correlated stocks diversify little more than five.
+  - Dalio: measure diversification by uncorrelated return streams (15–20 ideal for a professional). A thousand 60%-correlated stocks diversify little more than five.
 - Lynch category mix; avoid "diworseification" in a portfolio too (owning names you don't follow).
 - Costs (Bogle): total all-in fund costs and taxes; flag closet indexers, funds-of-funds, and high-turnover funds.
-- Speculative money kept separate: Zweig "mad money" ??10%; Bogle "Funny Money" ??5%.
+- Speculative money kept separate: Zweig "mad money" ≤ 10%; Bogle "Funny Money" ≤ 5%.
 - Risk (Dalio/Simons/Soros): no single position or correlated cluster can cause an unacceptable loss; check leverage and crowded trades; never run close to margin limits (forced-seller risk).
 - Behavior audit: check against Lynch's twelve silliest things, Graham/Zweig behavioral pitfalls, and Munger's 25 tendencies.
 
