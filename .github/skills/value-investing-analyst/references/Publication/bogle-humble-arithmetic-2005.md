@@ -38,14 +38,14 @@ Estimated 2004 intermediation costs:
 - Some costs create value (for example, liquidity), "but, by definition, those costs cannot create above-market returns."
 - "In investing, all investors together get precisely what they don't pay for."
 
-## 3. Index Fund vs. Average Equity Fund, 1983??003 [verified]
+## 3. Index Fund vs. Average Equity Fund, 1983–2003 [verified]
 
 | Measure | S&P 500 index fund | Average equity fund | Fund as % of index profit |
 |---|---|---|---|
 | Gross return | 13.0% ($10.52 profit per $1) | 13.0% | 100% |
 | Pretax return | 12.8% ($10.12) | 10.0% ($5.73) | 57% |
 | After-tax return | 11.9% ($8.47) | 7.8% ($3.49) | 41% |
-| Real return (??.0 inflation) | 8.9% ($4.50) | 4.8% ($1.55) | 34% |
+| Real return (−2.0 inflation) | 8.9% ($4.50) | 4.8% ($1.55) | 34% |
 
 - The average fund figure is the Lipper return reduced by 0.3pp for survivor bias and 0.3pp for sales charges.
 - Pretax, the fund trailed the index by 2.8pp a year. After tax, the gap was 4.1pp, because the fund "deferred almost no gains" while the index fund "deferred nearly all."
@@ -56,22 +56,22 @@ Estimated 2004 intermediation costs:
 | Measure | Index fund | Equity fund investor | % of index profit |
 |---|---|---|---|
 | Net fund return | 12.8% ($10.12) | 10.0% ($5.73) | 57% |
-| Timing/selection | 0.0 | ??.7 | |
+| Timing/selection | 0.0 | −0.7 | |
 | Investor net return | 12.8% ($10.12) | 6.3% ($2.39) | 24% |
 
 - Asset-weighted returns trailed time-weighted returns by 3.7pp a year. In total, the average fund investor fell 6.5pp a year behind the index fund.
-- **Specialized funds are worse.** For the six largest funds of each type in 1998??003:
+- **Specialized funds are worse.** For the six largest funds of each type in 1998–2003:
 
 | Group | Time-weighted annual return | Asset-weighted annual return | Cumulative client wealth |
 |---|---|---|---|
 | Diversified funds | 5.4% | 4.5% | +30% |
-| Sector funds | 6.6% | ??.7% | ??5% |
+| Sector funds | 6.6% | −2.7% | −1.5% |
 
-  - Sector funds' asset-weighted returns lagged by more than 11pp a year. Munder NetNet: ??8.8pp.
+  - Sector funds' asset-weighted returns lagged by more than 11pp a year. Munder NetNet: −8.8pp.
   - That is a 55-percentage-point difference in wealth.
 - Investors poured money in near the top and "characteristically selected the wrong funds."
 
-## 5. Manager Structure Predicts Results (1994??003 Data from Fidelity) [verified]
+## 5. Manager Structure Predicts Results (1994–2003 Data from Fidelity) [verified]
 
 - **Marketing focus.**
   - The 9 firms with fewer than 15 funds outpaced almost 80% of comparable rivals and held 6 of the top 7 spots.
@@ -95,7 +95,7 @@ Estimated 2004 intermediation costs:
 
 ## 7. Retirement System and Pension Assumptions [verified]
 
-- **DB vs. DC, 1990??002:** defined-benefit plans returned 144% vs. 125% for defined-contribution plans. In down years DB fell about half as much (??2% vs. ??2%).
+- **DB vs. DC, 1990–2002:** defined-benefit plans returned 144% vs. 125% for defined-contribution plans. In down years DB fell about half as much (−2% vs. −4%).
 - **Coverage:** about 22% of workers use 401(k)s, 10% have IRAs, and 9% have both. Average balances: $33,600 (401(k)) and $26,900 (IRA).
 - **GM's projected pension return:** 6% in 1975, 10% in 2000 (based on "long-term historical returns"), and 8.5% currently. In effect, "The more stocks have gone up in the past, the more they'll rise in the future."
 - **Realistic 60/40 template:**
@@ -127,10 +127,10 @@ Estimated 2004 intermediation costs:
 1. **Net, not gross.** Subtract all costs (expense ratio, loads, trading, advisory, tax drag) from any expected market return before comparing options.
 2. **Real and after-tax.** Restate returns after taxes and inflation. Compounding widens gaps that look small per year.
 3. **Investor return.** For a fund, compare asset-weighted (dollar-weighted) returns with time-weighted returns. A big gap means holders bought high.
-4. **Specialty/sector funds.** Treat hot sector funds with suspicion. Their investor returns lagged by more than 11pp a year in 1998??003.
+4. **Specialty/sector funds.** Treat hot sector funds with suspicion. Their investor returns lagged by more than 11pp a year in 1998–2003.
 5. **Manager structure.** Prefer firms with few funds and private or mutual ownership. Be wary of fund supermarkets owned by conglomerates.
 6. **Lifetime cost math.** Show the user the multi-decade gap (for example, 8% vs. 5.5% over 65 years: $148,800 vs. $32,500 per $1,000).
-7. **Company pensions.** In stock analysis, compare the pension return assumption with a realistic build-up (yield + growth ??costs). High assumptions inflate reported earnings and hide underfunding.
+7. **Company pensions.** In stock analysis, compare the pension return assumption with a realistic build-up (yield + growth − costs). High assumptions inflate reported earnings and hide underfunding.
 8. **Alternatives.** Any return target that requires managers to beat their markets persistently by several points is not a plan.
 
 ## 10. Key Quotes

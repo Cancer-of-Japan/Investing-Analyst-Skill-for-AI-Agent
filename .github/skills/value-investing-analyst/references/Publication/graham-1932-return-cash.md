@@ -6,11 +6,11 @@ Note: This is the second article in a 1932 Forbes series on the gap between corp
 
 ## 1. The Problem: Rich Companies, Poor Owners [verified]
 
-- New stock issues of listed companies alone absorbed "no less than five billion dollars" in 1926??930. Total corporate securities sold to the public exceeded twenty-nine billion dollars.
+- New stock issues of listed companies alone absorbed "no less than five billion dollars" in 1926â€“1930. Total corporate securities sold to the public exceeded twenty-nine billion dollars.
 - Stockholders "stripped themselves of cash to enrich their corporations' treasuries; they borrowed heavily in order that these corporations might be able to pay off their debts."
 - "The people who own these rich American businesses are themselves poor... Treasurers are sleeping soundly these nights, while their stockholders walk the floor in worried desperation."
 - The stockholder can't borrow against the cash behind his shares. If he sells, "he must accept the verdict of the ticker". If management buys his stock back at market, it pays "a small fraction of its fair value."
-- Cause: "undue generosity by stockholders towards their corporations in good times?“and of undue parsimony by the corporations towards the stockholders to-day."
+- Cause: "undue generosity by stockholders towards their corporations in good timesâ€”and of undue parsimony by the corporations towards the stockholders to-day."
 
 ## 2. The Banking Distortion [verified]
 
@@ -66,7 +66,7 @@ Reporting Federal Reserve member banks ($ millions):
 
 ## 6. Earnings Obsession and Accounting Games [verified]
 
-- Writers stressed earning power over assets, but "both the ignoring of assets and the emphasis on earnings can be?“and have been?“carried too far."
+- Writers stressed earning power over assets, but "both the ignoring of assets and the emphasis on earnings can beâ€”and have beenâ€”carried too far."
 - **Multiple expansion:** EPS rising from $4 to $5 lifted a stock from 40 to 75, because people assumed a trend that "justified a multiple of 15 instead of 10." Values became "arbitrary and mainly psychological."
 - **Writing fixed assets down to $1** to remove depreciation and inflate profits is "Alice in Wonderland financial logic." "In place of watering of assets, we now have watering of earnings... the object and the underlying deception are exactly the same."
 - Because of reverence for the income statement, "wide variations in market prices can be occasioned by purely arbitrary differences in accounting methods."

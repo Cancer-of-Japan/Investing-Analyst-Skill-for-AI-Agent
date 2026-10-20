@@ -11,7 +11,7 @@ Note: Despite the filename, this source is **not** "How the Economic Machine Wor
 ## 1. The Big Picture [verified]
 
 - "The big shifts in economic growth are about two-thirds driven by productivity and one-third driven by indebtedness." "Luck" (e.g., resources) and "conflict" (especially wars) also matter but are excluded as exceptional.
-- GDP = number of workers ? output per worker. Projected growth therefore combines working-age population growth with projected growth in output per worker.
+- GDP = number of workers × output per worker. Projected growth therefore combines working-age population growth with projected growth in output per worker.
 - Competitiveness is "what you get relative to what you pay." Because people are the largest cost of production, the cost of educated workers relative to their output is a key indicator.
 - "The countries that will grow the fastest are those that have big inefficiencies that are disposed of". An example is China ending its closed-door policy around 1980.
 - Model scope: 20 major countries, 19 health gauges, 81 indicators. It uses rolling 10-year periods measured every 5 years: 150 observations over about 70 years.
@@ -23,20 +23,20 @@ Note: Despite the filename, this source is **not** "How the Economic Machine Wor
 | **Aggregate estimate** | 100% | 86% |
 | **Productivity** | 65% | 71% |
 | Value: what you pay vs. what you get | 45% | 67% |
-| ??Cost of a quality-adjusted educated worker | 11.3% | 66% |
-| ??Cost of a productivity-adjusted educated worker | 11.3% | 57% |
-| ??Working hard relative to income | 11.3% | 64% |
-| ??Investing relative to income | 11.3% | 58% |
+| + Cost of a quality-adjusted educated worker | 11.3% | 66% |
+| + Cost of a productivity-adjusted educated worker | 11.3% | 57% |
+| + Working hard relative to income | 11.3% | 64% |
+| + Investing relative to income | 11.3% | 58% |
 | Culture (each piece measured ex-income) | 20% | 62% |
-| ??Self-sufficiency | 3.3% | 42% |
-| ??Savoring life vs. achieving | 3.3% | 37% |
-| ??Innovation & commercialism | 3.3% | 65% |
-| ??Bureaucracy | 3.3% | 43% |
-| ??Corruption | 3.3% | 63% |
-| ??Rule of law | 3.3% | 59% |
+| − Self-sufficiency | 3.3% | 42% |
+| − Savoring life vs. achieving | 3.3% | 37% |
+| − Innovation & commercialism | 3.3% | 65% |
+| − Bureaucracy | 3.3% | 43% |
+| − Corruption | 3.3% | 63% |
+| − Rule of law | 3.3% | 59% |
 | **Indebtedness** | 35% | 49% |
 | Debt and debt-service levels | 12% | 41% |
-| Debt flow | 6% | ??2% |
+| Debt flow | 6% | −2% |
 | Monetary policy | 18% | 25% |
 
 - **Accuracy:** predictions were within 2% of realized 10-year growth about 85% of the time and within 1% two-thirds of the time, "with the average miss of less than 1%."
@@ -50,13 +50,13 @@ Note: Despite the filename, this source is **not** "How the Economic Machine Wor
 - He first states the cause-effect logic without looking at data, then tests it, to avoid being "blinded by data."
 - When asked, the team let a computer fit the equations. The correlations stayed "in the range of 80-90%."
 - Goal: "to reliably be approximately right by focusing on the most important drivers rather than to try to be precise by focusing on the details."
-- **Education example:** the average education level has a ??7% correlation with future growth. Cost-adjusted education has +66%.
+- **Education example:** the average education level has a −7% correlation with future growth. Cost-adjusted education has +66%.
   - India's similarly educated workers cost about 1/20th of US workers. After adjusting for quality (about 50% worse), the cost is still about 1/10th.
 
 ## 4. Indebtedness and the Debt Cycle [verified]
 
 - Credit lets spending exceed income while borrowing and forces it below income while repaying. That produces cycles around the productivity trend.
-- "Think of debt growth that is faster than income growth as being like air in a scuba bottle?�there is a limited amount of it that you can use to get an extra boost, but you can't live on it forever."
+- "Think of debt growth that is faster than income growth as being like air in a scuba bottle—there is a limited amount of it that you can use to get an extra boost, but you can't live on it forever."
 - Expect faster 10-year growth from:
   - (a) low debt relative to income;
   - (b) debt growth that is low relative to income growth;
@@ -82,8 +82,8 @@ Note: Despite the filename, this source is **not** "How the Economic Machine Wor
 | 6 | Singapore | 3.2% to 3.6% | 16 | Japan | 0.8% to 0.9% |
 | 7 | Brazil | 2.8% to 2.9% | 17 | Canada | 0.8% to 1.0% |
 | 8 | Korea | 1.9% to 2.3% | 18 | Spain | 0.2% to 0.7% |
-| 9 | Russia | 1.6% to 1.7% | 19 | Italy | ??.6% to ??.2% |
-| 10 | United Kingdom | 1.6% to 1.7% | 20 | Greece | ??.0% to ??.9% |
+| 9 | Russia | 1.6% to 1.7% | 19 | Italy | −0.6% to −1.2% |
+| 10 | United Kingdom | 1.6% to 1.7% | 20 | Greece | −1.0% to −1.9% |
 
 - Ranges show estimates with and without the error adjustment.
 - India: low debt and a large cost advantage; per-capita income about $1,500, "four times less than China's". China: "a little over 4%," backed by a strong competitive position and high savings.

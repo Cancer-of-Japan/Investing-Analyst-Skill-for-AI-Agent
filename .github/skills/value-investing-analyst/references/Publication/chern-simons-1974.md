@@ -2,7 +2,7 @@
 
 Source: [Characteristic Forms and Geometric Invariants](../../../../../Publications/Chern-Simons.md)
 
-Note: Published in *Annals of Mathematics*, 2nd series, Vol. 99, No. 1 (January 1974), pp. 48??9. This is a **pure differential-geometry paper with no investing content**. It is included only as background on James Simons's academic career before Renaissance Technologies. Do **not** derive investment rules from it. For Simons's investing approach, use [simons.md](../Investors/simons.md).
+Note: Published in *Annals of Mathematics*, 2nd series, Vol. 99, No. 1 (January 1974), pp. 48–49. This is a **pure differential-geometry paper with no investing content**. It is included only as background on James Simons's academic career before Renaissance Technologies. Do **not** derive investment rules from it. For Simons's investing approach, use [simons.md](../Investors/simons.md).
 
 ## 1. What the Paper Is About [verified]
 
@@ -18,6 +18,6 @@ Note: Published in *Annals of Mathematics*, 2nd series, Vol. 99, No. 1 (January 
 
 ## 2. How to Use This Reference [verified scope]
 
-- **Biographical context only:** Simons was a research mathematician (Chern?�Simons forms bear his name) before founding Renaissance.
+- **Biographical context only:** Simons was a research mathematician (Chern–Simons forms bear his name) before founding Renaissance.
 - **Research-process observation:** the paper's own account describes following an unexpected obstacle (the boundary term) as a subject in its own right, rather than forcing the original goal. Present this only as a description of the paper's origin, not as an investing principle.
 - Do not cite this paper for any claim about markets, trading signals, or returns.
