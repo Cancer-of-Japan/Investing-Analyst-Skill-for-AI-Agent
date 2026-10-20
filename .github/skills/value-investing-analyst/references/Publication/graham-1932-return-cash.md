@@ -2,15 +2,15 @@
 
 Source: [Should Rich Corporations Return Stockholders' Cash?](../../../../../Publications/Ben-Graham-1932-article-in-Forbes-Should-Rich-Corporations-Return-Stockholders-Cahs.md)
 
-Note: This is the second article in a 1932 Forbes series on the gap between corporate cash and stock prices. The next article was titled "Should Rich But Losing Corporations Be Liquidated?". Use it for **cash-rich companies trading below net current assets, payout and buyback policy, and the owner's mindset**. It complements the net-current-asset rules in [graham.md](../Invesotrs/graham.md) and the activist catalysts in [icahn.md](../Invesotrs/icahn.md).
+Note: This is the second article in a 1932 Forbes series on the gap between corporate cash and stock prices. The next article was titled "Should Rich But Losing Corporations Be Liquidated?". Use it for **cash-rich companies trading below net current assets, payout and buyback policy, and the owner's mindset**. It complements the net-current-asset rules in [graham.md](../Investors/graham.md) and the activist catalysts in [icahn.md](../Investors/icahn.md).
 
 ## 1. The Problem: Rich Companies, Poor Owners [verified]
 
-- New stock issues of listed companies alone absorbed "no less than five billion dollars" in 1926â€“1930. Total corporate securities sold to the public exceeded twenty-nine billion dollars.
+- New stock issues of listed companies alone absorbed "no less than five billion dollars" in 1926??930. Total corporate securities sold to the public exceeded twenty-nine billion dollars.
 - Stockholders "stripped themselves of cash to enrich their corporations' treasuries; they borrowed heavily in order that these corporations might be able to pay off their debts."
 - "The people who own these rich American businesses are themselves poor... Treasurers are sleeping soundly these nights, while their stockholders walk the floor in worried desperation."
 - The stockholder can't borrow against the cash behind his shares. If he sells, "he must accept the verdict of the ticker". If management buys his stock back at market, it pays "a small fraction of its fair value."
-- Cause: "undue generosity by stockholders towards their corporations in good timesâ€“and of undue parsimony by the corporations towards the stockholders to-day."
+- Cause: "undue generosity by stockholders towards their corporations in good times?“and of undue parsimony by the corporations towards the stockholders to-day."
 
 ## 2. The Banking Distortion [verified]
 
@@ -66,7 +66,7 @@ Reporting Federal Reserve member banks ($ millions):
 
 ## 6. Earnings Obsession and Accounting Games [verified]
 
-- Writers stressed earning power over assets, but "both the ignoring of assets and the emphasis on earnings can beâ€“and have beenâ€“carried too far."
+- Writers stressed earning power over assets, but "both the ignoring of assets and the emphasis on earnings can be?“and have been?“carried too far."
 - **Multiple expansion:** EPS rising from $4 to $5 lifted a stock from 40 to 75, because people assumed a trend that "justified a multiple of 15 instead of 10." Values became "arbitrary and mainly psychological."
 - **Writing fixed assets down to $1** to remove depreciation and inflate profits is "Alice in Wonderland financial logic." "In place of watering of assets, we now have watering of earnings... the object and the underlying deception are exactly the same."
 - Because of reverence for the income statement, "wide variations in market prices can be occasioned by purely arbitrary differences in accounting methods."
@@ -91,7 +91,7 @@ Reporting Federal Reserve member banks ($ millions):
 4. **Buyback method and price.** Prefer pro-rata tenders or special distributions. For open-market buybacks, check disclosure, timing around insider activity, and whether the price was below a conservative value.
 5. **Earnings quality.** Look for depreciation cut by asset write-downs, goodwill write-ups credited to income, and accounting-policy changes that drive EPS. A higher multiple on one year of EPS growth is a warning sign.
 6. **Restructurings.** In mergers, reorganizations, or exchange offers, check that creditors and holders keep a claim on the cash that backed their securities.
-7. **Catalyst.** Without a return of cash, the discount can persist. Look for holder pressure, activist involvement, or a stated capital-return policy ([icahn.md](../Invesotrs/icahn.md)).
+7. **Catalyst.** Without a return of cash, the discount can persist. Look for holder pressure, activist involvement, or a stated capital-return policy ([icahn.md](../Investors/icahn.md)).
 
 ## 10. Key Quotes
 

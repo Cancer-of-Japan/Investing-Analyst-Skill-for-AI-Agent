@@ -2,7 +2,7 @@
 
 Source: [The Superinvestors of Graham-and-Doddsville](../../../../../Publications/The%20Superinvestors%20of%20Graham-and-Doddsville%20_%20Columbia%20Business%20School.md)
 
-Note: Buffett wrote this for the 50th anniversary of *Security Analysis* (Columbia Business School, published May 17, 1984). It answers the efficient-market claim that investors who beat the market are just lucky. Use it for **evaluating whether a manager's record reflects skill, the price-vs-value discipline, and why lower price means lower risk**. It complements [buffett.md](../Invesotrs/buffett.md) and [graham.md](../Invesotrs/graham.md).
+Note: Buffett wrote this for the 50th anniversary of *Security Analysis* (Columbia Business School, published May 17, 1984). It answers the efficient-market claim that investors who beat the market are just lucky. Use it for **evaluating whether a manager's record reflects skill, the price-vs-value discipline, and why lower price means lower risk**. It complements [buffett.md](../Investors/buffett.md) and [graham.md](../Investors/graham.md).
 
 ## 1. The Coin-Flipping Argument [verified]
 
@@ -33,18 +33,18 @@ Note: Buffett wrote this for the 50th anniversary of *Security Analysis* (Columb
 | Manager / vehicle | Period | Result | Benchmark | Style note |
 |---|---|---|---|---|
 | Walter Schloss (WJS Partnership) | 28¼ yrs to 1984 Q1 | 21.3%/yr partnership (16.1% limited partners) | S&P 8.4%/yr | Over 800 issues owned; usually 100+ positions; "looks up the numbers in the manuals" |
-| Tweedy, Browne (TBK) | 15¾ yrs, 1968–1983 | 20.0%/yr overall (16.0% LPs) | S&P 7.0%/yr | Very wide diversification; passive holdings did as well as control positions |
-| Buffett Partnership | 1957–1969 | 29.5%/yr partnership (23.8% LPs) | Dow 7.4%/yr | "The best thing he did was to quit in 1969" |
-| Sequoia Fund (Bill Ruane) | July 1970–1984 Q1 | 17.2%/yr (18.2% gross of 1% fee) | S&P 10.0%/yr | Started in the two-tier market; Buffett's only recommendation to his partners |
-| Charlie Munger partnership | 1962–1975 | 19.8%/yr overall (13.7% LPs) | Dow 5.0%/yr | Concentrated, more volatile; −31.9% in 1973 and −31.5% in 1974 |
-| Rick Guerin (Pacific Partners) | 1965–1983 | 32.9%/yr overall (23.6% LPs) | S&P 7.8%/yr | Ex-IBM salesman, math major |
-| Stan Perlmeter | 8/1965–10/1983 | 23.0%/yr overall (19.0% LPs) | Dow about 7%/yr | Former ad-agency partner |
+| Tweedy, Browne (TBK) | 15¾ yrs, 1968??983 | 20.0%/yr overall (16.0% LPs) | S&P 7.0%/yr | Very wide diversification; passive holdings did as well as control positions |
+| Buffett Partnership | 1957??969 | 29.5%/yr partnership (23.8% LPs) | Dow 7.4%/yr | "The best thing he did was to quit in 1969" |
+| Sequoia Fund (Bill Ruane) | July 1970??984 Q1 | 17.2%/yr (18.2% gross of 1% fee) | S&P 10.0%/yr | Started in the two-tier market; Buffett's only recommendation to his partners |
+| Charlie Munger partnership | 1962??975 | 19.8%/yr overall (13.7% LPs) | Dow 5.0%/yr | Concentrated, more volatile; ??1.9% in 1973 and ??1.5% in 1974 |
+| Rick Guerin (Pacific Partners) | 1965??983 | 32.9%/yr overall (23.6% LPs) | S&P 7.8%/yr | Ex-IBM salesman, math major |
+| Stan Perlmeter | 8/1965??0/1983 | 23.0%/yr overall (19.0% LPs) | Dow about 7%/yr | Former ad-agency partner |
 | Washington Post pension (3 value managers) | to 1983 | Master Trust top percentile across periods | A.C. Becker universe | Required to hold at least 25% bonds |
 | FMC pension | from 1974 | No. 1 in the Becker survey for its size | Large-plan median | $243M above the median result |
 
 - Schloss: "if a business is worth a dollar and I can buy it for 40 cents, something good may happen to me." His strength is that "no one has much influence on him."
 - Munger's holdings were "almost completely different" from the others'. FMC's managers were not Buffett's picks but shared "the common denominators of selecting securities based on value."
-- **Down markets:** "this group has assumed far less risk than average; note their record in years when the general market was weak." For example, in the S&P's 1974 fall of −26.6%, Schloss lost −6.2%. Tweedy, Browne made +1.5% while the S&P fell −38.1% in its September 1974 year.
+- **Down markets:** "this group has assumed far less risk than average; note their record in years when the general market was weak." For example, in the S&P's 1974 fall of ??6.6%, Schloss lost ??.2%. Tweedy, Browne made +1.5% while the S&P fell ??8.1% in its September 1974 year.
 
 ## 5. Size and Performance [verified]
 

@@ -2,7 +2,7 @@
 
 Source: [Fallibility, reflexivity, and the human uncertainty principle](../../../../../Publications/Fallibility%20%20reflexivity%20%20and%20the%20human%20uncertainty%20principle.md)
 
-Note: Published in the *Journal of Economic Methodology* 20:4 (2013), pp. 309–329, DOI 10.1080/1350178X.2013.859415. It is Soros's most compact statement of his framework. Use it for **boom-bust diagnosis, near- vs. far-from-equilibrium thinking, how price can change fundamentals, and his "conjecture vs. price" trading discipline**. It complements [soros.md](../Invesotrs/soros.md).
+Note: Published in the *Journal of Economic Methodology* 20:4 (2013), pp. 309??29, DOI 10.1080/1350178X.2013.859415. It is Soros's most compact statement of his framework. Use it for **boom-bust diagnosis, near- vs. far-from-equilibrium thinking, how price can change fundamentals, and his "conjecture vs. price" trading discipline**. It complements [soros.md](../Investors/soros.md).
 
 ## 1. Two Propositions and the Human Uncertainty Principle [verified]
 
@@ -28,7 +28,7 @@ Note: Published in the *Journal of Economic Methodology* 20:4 (2013), pp. 309–
 
 - **Cognitive function:** understanding the world (causation runs from the world to the mind).
 - **Manipulative function:** changing the world to advance one's interests (causation runs from the mind to the world).
-- When both operate at once, "neither function has a genuinely independent variable – the relationship is circular or recursive."
+- When both operate at once, "neither function has a genuinely independent variable ??the relationship is circular or recursive."
 - "It is raining" is true or false regardless of belief. "I love you" is reflexive: the statement changes its own truth value.
 - There is "slippage between intentions and actions, and further slippage between actions and outcomes". So actions "are liable to have unintended consequences."
 
@@ -44,7 +44,7 @@ Note: Published in the *Journal of Economic Methodology* 20:4 (2013), pp. 309–
 
 - **Fallibility:** asset prices "do not accurately reflect their fundamental value because they do not even aim to do so. Prices reflect market participants' expectations of future market prices."
 - **Reflexivity:** markets "can affect the future earnings flows they are supposed to reflect. That is the point that behavioral economists have missed." Behavioral economics covers only mispricing, not its effect on fundamentals.
-- **Main pathway: leverage**, both debt and equity. "Companies can improve their earnings per-share by issuing shares at inflated prices – at least for a while."
+- **Main pathway: leverage**, both debt and equity. "Companies can improve their earnings per-share by issuing shares at inflated prices ??at least for a while."
 - **Equilibrium** is "an extreme case of negative feedback, a limiting case". He prefers to speak of **near-equilibrium** conditions.
 
 | Feedback | Effect | Result |
@@ -55,7 +55,7 @@ Note: Published in the *Journal of Economic Methodology* 20:4 (2013), pp. 309–
 - Many loops in balance are like "waves sloshing around in a swimming pool". Dominant positive loops are like "tides and currents."
 - A positive process may run its full course and reverse. It may also "be aborted at any time by negative feedback."
 
-## 6. Boom–Bust Model [verified]
+## 6. Boom?�Bust Model [verified]
 
 - "Every bubble has two components: an underlying trend that prevails in reality and a misconception relating to that trend."
 - Bubbles get tested along the way. If the trend survives, both trend and misconception strengthen.
@@ -83,7 +83,7 @@ Note: Published in the *Journal of Economic Methodology* 20:4 (2013), pp. 309–
 
 ## 7. Markets vs. Regulators; the Euro [verified]
 
-- Authorities and markets both act on imperfect understanding, so their interaction is reflexive. Repeated crisis interventions built a "super-bubble" that burst in 2007–2008.
+- Authorities and markets both act on imperfect understanding, so their interaction is reflexive. Repeated crisis interventions built a "super-bubble" that burst in 2007??008.
 - **Euro design flaw:** by ceding money-printing to the ECB, "the member states put themselves in the position of third-world countries that borrow in a foreign currency."
   - Government bonds were declared riskless, so banks set aside no capital against them. The ECB accepted all government bonds equally.
   - Yields converged, which caused economic divergence.
@@ -93,7 +93,7 @@ Note: Published in the *Journal of Economic Methodology* 20:4 (2013), pp. 309–
 
 ## 8. Fat Tails [verified]
 
-- Risk tools that assumed random deviations from equilibrium "broke down" in 2007–2008.
+- Risk tools that assumed random deviations from equilibrium "broke down" in 2007??008.
 - Mandelbrot (1963) found fat tails. Soros's explanation: people rely on dichotomies, and "when markets switch from one side of a dichotomy to another the transition can be quite violent." The tipping point "is associated with a sharp increase in volatility."
 - "Rules that can usefully guide decisions in near-equilibrium conditions can be misleading in far-from-equilibrium situations."
 
@@ -109,7 +109,7 @@ Note: Published in the *Journal of Economic Methodology* 20:4 (2013), pp. 309–
 1. **Regime.** Is the asset near-equilibrium (self-correcting, statistical tools OK) or far-from-equilibrium (self-reinforcing, models unreliable)?
 2. **Trend + misconception.** Name the real trend and the false belief feeding on it. Check whether the valuation input depends on the thing that is booming (for example, collateral values that depend on credit availability).
 3. **Pathway to fundamentals.** Is the price itself changing fundamentals through leverage, equity issuance at inflated prices, or ratios that improve because credit flows?
-4. **Stage.** Place the situation on the AB–HI path. Look for the twilight sign: participants who admit doubt but keep dancing.
+4. **Stage.** Place the situation on the AB?�HI path. Look for the twilight sign: participants who admit doubt but keep dancing.
 5. **Asymmetry.** Size positions for abrupt busts. Leverage and forced selling make the downside faster than the upside.
 6. **Policy reflexivity.** Ask how authorities' likely responses will feed back into prices, and whether the rules were built for near-equilibrium conditions.
 7. **Conjecture discipline.** Write the thesis, compare it with price, and decide in advance: wrong means cut the loss; market wrong means add, within risk limits.
